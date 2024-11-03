@@ -30,11 +30,11 @@ CONSIGNAS CUMPLIDAS:
 
 
 
-- 🔭 Trabajando en curso Fullstack-Coderhouse [Javascript Preentrega2](https://guweck.github.io/Coder-JS-Pre2-Weckesser/)
+- 🔭 Trabajando en curso Fullstack-Coderhouse [Javascript FINAL](https://github.com/guweck/Coder-JS-FINAL-Gustavo-Weckesser)
 
-- 🌱 Edtudiando **Javascript**
+- 🌱 Estudiando **Javascript**
 
-- 👯 Preentraga2 [ToDo list](https://guweck.github.io/Coder-JS-Pre2-Weckesser/)
+- 👯 ENTREGA FINAL [Conversión entre monedas](https://github.com/guweck/Coder-JS-FINAL-Gustavo-Weckesser)
 
 - 👨‍💻 All of my projects are available at [https://github.com/guweck](https://github.com/guweck)
 
